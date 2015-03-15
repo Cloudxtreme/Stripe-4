@@ -1,0 +1,3 @@
+<?php
+
+    define('STRIPE_PUBLIC_KEY', 'ADD_YOUR_PUBLIC_KEY_HERE');
