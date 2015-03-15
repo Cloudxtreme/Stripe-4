@@ -4,8 +4,8 @@ Very simple, jQuery-less, Stripe/PHP example.
 
 **Requires**
 
-- [Stripe API](https://stripe.com/docs/libraries)
-- A server running PHP 5.3+
+- [Stripe PHP Library](https://github.com/stripe/stripe-php/releases) *Included*
+- A server running PHP >= 5.3.3
 - *Does **NOT** require jQuery*
 
 **Should Work**
