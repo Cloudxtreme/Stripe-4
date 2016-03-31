@@ -1,6 +1,6 @@
 #Stripe
 
-Very simple, jQuery-less, Stripe/PHP example.
+Very simple, jQuery-less, Stripe/PHP integration.
 
 **Requires**
 
